@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi My name is Syed Muhammad Faraz Hashmi. In short you can call me Faraz Hashmi. I am s software engineer since 2016.
-Because I have be graduated in 2016 with a Computer Science Degree. After that I have been working in local organization in my country. Now I am working as a Freelancer Web Developer.
+Hi My name is Syed Muhammad Faraz Hashmi. In short you can call me Faraz Hashmi. I am a software engineer since 2016.
+Because I have be graduated in 2016 with a Computer Science Degree. After that I have been working in different local organizations in my country. Now I am working as a Freelance Web Developer. My specialities are in PHP, WordPress and Laravel Framework. For Business with me, Check Out My profile @ Fiverr: http://bit.ly/2nfgCsZ
+Thanks Faraz Hsahmi
