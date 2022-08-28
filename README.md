@@ -1,4 +1,4 @@
-<h1>Hello World</h1>,
+<h1 style="color:#00f;">Hello World</h1>
 <p>My name is "Syed Muhammad Faraz Hashmi".</p>
 <p>You can call me "Faraz Hashmi". I am a software engineer since 2016.</p>
 <p>I lived in Karachi City of Country Pakistan.</p>
