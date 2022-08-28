@@ -4,7 +4,7 @@ You can call me "**F**araz **H**ashmi".
 <p>I am a software engineer since year 2016.</p>
 <p>I lived in Karachi City of Country Pakistan.</p>
 <p>I have completed my studies in year 2016 with a Computer Science Degree (BSCS).</p>
-After that I have been working as a # Web Application Developer in different local organizations in my city.
+After that I have been working as a <b>Web Application Developer</b> in different local organizations in my city.
 <p>My specialities are  in :</p>
 <ul>
 	<li>PHP Core.</li>
