@@ -1,6 +1,6 @@
-#Hello World#
-<p>My name is "Syed Muhammad Faraz Hashmi".</p>
-<p>You can call me "Faraz Hashmi".</p>
+# Hello World
+<p>My name is "**S**yed **M**uhammad **F**araz **H**ashmi".</p>
+<p>You can call me "**F**araz **H**ashmi".</p>
 <p>I am a software engineer since year 2016.</p>
 <p>I lived in Karachi City of Country Pakistan.</p>
 <p>I have done my graduation in year 2016 with a Computer Science Degree (BSCS).</p>
