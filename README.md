@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>My name is "<strong>S</strong>yed <strong>M</strong>uhammad <strong>F</strong>araz <strong>H</strong>ashmi".</p>
-<p>You can call me "<strong>F</strong>araz <strong>H</strong>ashmi". I am a software engineer since 2016.</p>
+<p>My name is "Syed Muhammad Faraz Hashmi".</p>
+<p>You can call me "Faraz Hashmi". I am a software engineer since 2016.</p>
 <p>I lived in Karachi City of Country Pakistan.</p>
 <p>I have done my graduation in year 2016 with a Computer Science Degree (BSCS).</p>
 <p>After that I have been working as a web developer in different local organizations in my city.</p>
 <p>My specialities are  in :</p>
-<ul>
+<ul type="circle">
 	<li>PHP Core.</li>
 	<li>WordPress CMS.</li>
 	<li>Laravel Framework.</li>
-	<li>Django Framework, based on Python Programming Language.</li>
+	<li>Django Framework, based on Python Programming Language(2022).</li>
 </ul>
 <!-- For Business with me, Check Out my profile @ Fiverr: http://bit.ly/2nfgCsZ -->
 <p>Thanks Faraz Hashmi</p>
