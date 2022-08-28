@@ -1,8 +1,8 @@
 # Hello World
 <p>My name is "<b>S</b>yed <b>M</b>uhammad <b>F</b>araz <b>H</b>ashmi".</p>
 <p>You can call me "<b>F</b>araz <b>H</b>ashmi".</p>
-<p>I am a software engineer since year 2016.</p>
-<p>I lived in Karachi City of Country Pakistan.</p>
+<p>I am a software engineer since <b>Year 2016</b>.</p>
+<p>I lived in <b>Karachi City</b> of <b>Country Pakistan</b>.</p>
 <p>I have completed my studies in year 2016 with a <b>Computer Science Degree (BSCS)</b>.</p>
 <p>After that I have been working as a <b>Web Application Developer</b> in different local organizations in my city.</p>
 <p>My specialities are  in :</p>
