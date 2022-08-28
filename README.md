@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-Hello World,
 <!--
 **hashmiDeveloper745/hashmiDeveloper745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hello World</h1>,
 <p>My name is "Syed Muhammad Faraz Hashmi".</p>
 <p>You can call me "Faraz Hashmi". I am a software engineer since 2016.</p>
 <p>I lived in Karachi City of Country Pakistan.</p>
