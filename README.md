@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>I have done my graduation in year 2016 with a Computer Science Degree (BSCS).</p>
 <p>After that I have been working as a web developer in different local organizations in my city.</p>
 <p>My specialities are  in :</p>
-<ul type="circle">
+<ul>
 	<li>PHP Core.</li>
 	<li>WordPress CMS.</li>
 	<li>Laravel Framework.</li>
