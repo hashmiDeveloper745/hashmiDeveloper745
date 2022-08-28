@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is "Syed Muhammad Faraz Hashmi". You can call me "Faraz Hashmi". I am a software engineer since 2016.
-Because I have done my graduation in year 2016 with a Computer Science Degree (BSCS). After that I have been a web developer in different local organizations of my country. Now I am working as a "Freelance Web Developer". My specialities are in PHP, WordPress and Laravel Framework as well as CodeIgniter Framework. For Business with me, Check Out my profile @ Fiverr: http://bit.ly/2nfgCsZ
+Hello There, my name is "Syed Muhammad Faraz Hashmi".
+You can call me "Faraz Hashmi". I am a software engineer since 2016.
+I lived in Karachi City of Country Pakistan.
+I have done my graduation in year 2016 with a Computer Science Degree (BSCS).
+After that I have been a web developer in different local organizations in my city.
+My specialities are in PHP Core, WordPress CMS and Laravel Framework as well as Django Framework, based on Python Programming Language.
+<!-- For Business with me, Check Out my profile @ Fiverr: http://bit.ly/2nfgCsZ -->
 Thanks Faraz Hashmi
