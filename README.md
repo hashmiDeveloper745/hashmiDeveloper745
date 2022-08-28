@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+Hello World
 <!--
 **hashmiDeveloper745/hashmiDeveloper745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello There, my name is "Syed Muhammad Faraz Hashmi".
-You can call me "Faraz Hashmi". I am a software engineer since 2016.
-I lived in Karachi City of Country Pakistan.
-I have done my graduation in year 2016 with a Computer Science Degree (BSCS).
-After that I have been a web developer in different local organizations in my city.
-My specialities are in PHP Core, WordPress CMS and Laravel Framework as well as Django Framework, based on Python Programming Language.
+<p>Hello There, my name is "Syed Muhammad Faraz Hashmi".</p>
+<p>You can call me "Faraz Hashmi". I am a software engineer since 2016.</p>
+<p>I lived in Karachi City of Country Pakistan.</p>
+<p>I have done my graduation in year 2016 with a Computer Science Degree (BSCS).</p>
+<p>After that I have been working as a web developer in different local organizations in my city.</p>
+<p>My specialities are  in :</p>
+<ul>
+	<li>PHP Core.</li>
+	<li>WordPress CMS.</li>
+	<li>Laravel Framework.</li>
+	<li>Django Framework, based on Python Programming Language.</li>
+</ul>
 <!-- For Business with me, Check Out my profile @ Fiverr: http://bit.ly/2nfgCsZ -->
-Thanks Faraz Hashmi
+<p>Thanks Faraz Hashmi</p>
